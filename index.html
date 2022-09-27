@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Interactive rating component</title>
+    <meta name="description" content="Submit feedback, Support request, Rating" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./src/assets/favicon-32x32.png" />
+    <link rel="stylesheet" href="./build/index.css" />
+    <script src="./build/index.js" defer></script>
+  </head>
+  <body class="page">
+    <!-- RATING CARD -->
+    <main class="rating-card">
+      <div class="rating-card__star">
+        <img src="./src/assets/icon-star.svg" alt="star icon" />
+      </div>
+      <article class="rating-card__text">
+        <h2 class="rating-card__header">How did we do?</h2>
+        <p class="rating-card__description">
+          Please let us know how we did with your support request. All feedback is appreciated to
+          help us improve our offering!
+        </p>
+      </article>
+      <div class="rating-card__scores">
+        <span class="score score--1">1</span>
+        <span class="score score--2">2</span>
+        <span class="score score--3">3</span>
+        <span class="score score--4">4</span>
+        <span class="score score--5">5</span>
+      </div>
+      <button type="submit" class="button rating-card__button" disabled>Submit</button>
+    </main>
+
+    <!-- RESULT CARD -->
+    <section class="result-card page--no-display">
+      <img
+        src="./src/assets/illustration-thank-you.svg"
+        alt="Illustration thank you"
+        class="result-card__illustration"
+      />
+      <p class="result-card__conclusion">You haven't selected anything</p>
+      <article class="result-card__text">
+        <h2 class="result-card__header">Thank you!</h2>
+        <p class="result-card__description">
+          We appreciate you taking the time to give a rating. If you ever need more support, don't
+          hesitate to get in touch!
+        </p>
+      </article>
+      <button type="submit" class="button result-card__button">Change decision</button>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <p class="footer__description">
+        for
+        <a
+          href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"
+          target="_blank"
+          draggable="false"
+          class="footer__link"
+          >Frontend&nbsp;Mentor</a
+        >
+        | by&nbsp;<a
+          href="https://github.com/arlagonix"
+          target="_blank"
+          draggable="false"
+          class="footer__link"
+          >Alexander&nbsp;Gorbunov</a
+        >
+      </p>
+    </footer>
+  </body>
+</html>
