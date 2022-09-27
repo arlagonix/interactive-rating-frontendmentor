@@ -1,16 +1,16 @@
 # Advice Generator App
 
 <p align="center">
-  <img src="./docs/results/big1.png" width="100%">
+  <img src="./docs/results/big_1.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="./docs/results/big2.png" width="100%">
+  <img src="./docs/results/big_2.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="./docs/results/small1.png" width="35%">
-  <img src="./docs/results/small2.png" width="35%">
+  <img src="./docs/results/small_1.png" width="35%">
+  <img src="./docs/results/small_2.png" width="35%">
 </p>
 
 ## ℹ️ About
