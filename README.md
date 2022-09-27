@@ -292,20 +292,20 @@ I thought about including Jest to add unit test my scripts, but in this case it 
 
 So instead I decided to add Gherkin "Given When Then" scenarios to describe the business logic. I wrote them prior to coding the implemenation. They describe how the interface must work with as few as possible interface details like "press button" and so on.
 
-```
+```gherkin
 Feature: Submit feedback
 
-  In order to share my attitude towards the support request
-  As a User
-  I want to be able to submit my feedback
+In order to share my attitude towards the support request
+As a User
+I want to be able to submit my feedback
 
-  Scenario: Default
-  Given User opened the page
-  Then User is unable to submit the feedback
+Scenario: Default
+Given User opened the page
+Then User is unable to submit the feedback
 
-  Scenario: Select only 1 option
-  Given User opened the page
-  Then User can select only 1 feedback option
+Scenario: Select only 1 option
+Given User opened the page
+Then User can select only 1 feedback option
 ```
 
 <hr>
