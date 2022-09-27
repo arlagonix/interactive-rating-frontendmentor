@@ -15,6 +15,8 @@
 
 ## ℹ️ About
 
+![GitHub repo size](https://img.shields.io/github/repo-size/arlagonix/interactive-rating-frontendmentor)
+
 This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
 
 The challenge is to build out this interactive rating component and get it looking as close to the design as possible.
