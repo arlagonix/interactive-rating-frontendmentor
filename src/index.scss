@@ -153,6 +153,7 @@ main {
   height: 3rem;
   border-radius: 50%;
   background: var(--score--bg-color);
+  padding-top: 3px; // to perfectly align vertically
 
   display: flex;
   align-items: center;
