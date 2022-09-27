@@ -154,7 +154,9 @@ Your users should be able to:
   
 </table>
 
-tbd : add how to build the project
+## 🔨 How to build project
+
+run `npm install`
 
 ## 💡 Details
 
