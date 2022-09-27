@@ -132,6 +132,25 @@ Your users should be able to:
     <td>docs / interactive-rating-component-main.zip</td>
     <td>Initial archive provided by Frontend Mentor</td>
   </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td>LICENSE</td>
+    <td>MIT License</td>
+  </tr>
+  <tr>
+    <td>package-lock.json</td>
+    <td>JSON file that keeps track of the exact version of every package that is installed so that a product is 100% reproducible in the same way even if packages are updated by their maintainers</td>
+  </tr>
+  <tr>
+    <td>package.json</td>
+    <td>JSON file that holds various metadata relevant to the project. This file is used to give information to npm that allows it to identify the project as well as handle the project's dependencies</td>
+  </tr>
+  <tr>
+    <td>tsconfig.json</td>
+    <td>JSON file that holds different compiler options for TypeScript</td>
+  </tr>
   
 </table>
 
