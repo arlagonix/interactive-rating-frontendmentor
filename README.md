@@ -1,4 +1,4 @@
-<h1 align="center">Advice Generator App</h1>
+<h1 align="center">Interactive Rating Component</h1>
 <p align="center">
  Coded with HTML, SCSS, TypeScript
 </p>
