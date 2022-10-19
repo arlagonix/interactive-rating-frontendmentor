@@ -1,6 +1,6 @@
 <h1 align="center">Interactive Rating Component</h1>
 <p align="center">
- Coded with HTML, SCSS, TypeScript
+ Coded with <code>HTML</code>, <code>SCSS</code>, <code>TypeScript</code>
 </p>
 
 <p align="center">
