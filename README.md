@@ -1,4 +1,7 @@
-# Advice Generator App
+<h1 align="center">Advice Generator App</h1>
+<p align="center">
+ Coded with HTML, SCSS, TypeScript
+</p>
 
 <p align="center">
   <img src="./docs/results/big_1.png" width="100%">
